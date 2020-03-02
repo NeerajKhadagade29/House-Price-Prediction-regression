@@ -9,4 +9,5 @@ The files contains:
 
 The link of this competition : https://www.kaggle.com/c/house-prices-advanced-regression-techniques
 
+If there are any corrections, suggestions, improvements or any recommendations, please feel free to DM me or mail me at n.khadagade711@gmail.com
 Thank you! :)
